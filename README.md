@@ -1,3 +1,3 @@
 # NYT_fiction_bestsellers
 
-# All the scripts and data used to generate the post at https://medium.com/@michaeltauberg/how-to-name-a-bestseller-6f7313fbb9e6
+# All the scripts and data used to generate the post at https://medium.com/@scottcurtisjones/exploring-best-selling-books-of-the-last-five-years-8f4740449289
